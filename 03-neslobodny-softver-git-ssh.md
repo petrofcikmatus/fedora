@@ -70,7 +70,7 @@ Prvý nám v systéme nastaví naše meno, a druhý email (pomocou emailu sa pot
 ## SSH
 
 Správny vývojár počas svojej práce nezadáva 1000-krát svoje heslo znovu a znovu,
-ale overuje svoju totožnosť pomocou SSH kľúču.
+ale overuje svoju totožnosť pomocou SSH kľúča.
 
 Hodí sa nám to pri práci s Git-om, keď ukladáme do vzdialeného repozitára novú verziu
 nášho softvéru, ale aj na pripájanie na iné servery a podobne.
