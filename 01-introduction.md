@@ -21,7 +21,7 @@ kde je východzím grafickým prostredím [GNOME 3](https://www.gnome.org/gnome-
 Z verzie Workstation existujú aj tzv. Fedora Spin-y s KDE Plasma Desktop, XFCE Desktop,
 LXDE Desktop, MATE-Compiz Desktop, Cinnamon Desktop a SOAS Desktop (Sugar on a Stick).
 
-Ďalšími verziami sú [Server](https://getfedora.org/en/server/), [Cloud](https://getfedora.org/en/cloud/) (obrazy raw, vagrant, amazon, docker...),
+Ďalšími verziami sú [Server](https://getfedora.org/en/server/), [Cloud](https://getfedora.org/en/cloud/) (raw, vagrant, amazon, docker...),
 a ako bonus sú k dispozícii aj [ARM verzie](https://arm.fedoraproject.org/) všetkého čo som napísal.
 
 Webstránka: [getfedora.org/en/](https://getfedora.org/en/)
