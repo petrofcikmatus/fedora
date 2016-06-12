@@ -18,7 +18,7 @@ a podľa jednotlivých vydaní Fedory potom Red Hat vytvára vlastný operačný
 Nás bude zaujímať verzia [Workstation](https://getfedora.org/en/workstation/),
 kde je východzím grafickým prostredím [GNOME 3](https://www.gnome.org/gnome-3/).
 
-Z Fedory 23 Workstation existujú aj tzv. Fedora Spin-y s KDE Plasma Desktop, XFCE Desktop,
+Z verzie Workstation existujú aj tzv. Fedora Spin-y s KDE Plasma Desktop, XFCE Desktop,
 LXDE Desktop, MATE-Compiz Desktop, Cinnamon Desktop a SOAS Desktop (Sugar on a Stick).
 
 Ďalšími verziami sú [Server](https://getfedora.org/en/server/), [Cloud](https://getfedora.org/en/cloud/) (obrazy raw, vagrant, amazon, docker...),
