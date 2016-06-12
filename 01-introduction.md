@@ -32,7 +32,7 @@ Ak sa niekomu nepáči grafické prostredie GNOME 3, môže siahnúť po jednom 
 
 ## Vytvorenie inštalačného USB
 
-Stiahnutý ISO súbor následne potrebujeme dostať na inštalačné médium ako CD, DVD, alebo USB. S CD a DVD je to jednoduché, stačí vypáliť ISO súbor, no s USB-diskom to môže byť málinko komplikovanejšie.
+Zatiaľ čo s CD/DVD je to jednoduché (stačí vypáliť ISO súbor), s USB-diskom to môže byť málinko komplikovanejšie.
 
 Fedora Project odporúča použiť nástroj [LiveUSB Creator](https://fedorahosted.org/liveusb-creator/), ktorý je dostupný ako pre Linux, tak pre Windows.
 
