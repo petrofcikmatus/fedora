@@ -38,6 +38,16 @@ Pre úplnosť uvediem rozdiel medzi Free a Nonfree repozitárom:
 - **Free** - pre Open Source softvér, ktorý Fedora nemôže dodávať z rôznych dôvodov
 - **Nonfree** - pre softvér, ktorý nie je Open Source (zahŕňa aj Open Source softvér, ktorý je zadarmo len pre nekomerčné účely)
 
+### Ostatný softvér
+
+Ak sa vami hľadaný softvér nenachádza v repozitároch, stále je možnosť získať RPM balíček (koncovka .rpm) od výrobcu.
+
+Ako príklad uvediem emailový klient [Nylas N1](https://nylas.com/), ktorý sa dá stiahnúť na stránke [invite.nylas.com/download/](https://invite.nylas.com/download/).
+
+Podobným spôsobom sa dá do systému dostať Google Chrome, Opera, Vivaldi, Skype, a iné.
+
+Balíčky pre Debian (Ubuntu, Linux Mint) s koncovkou .deb pre nás žiaľ neplatia.
+
 ## Git
 
 Každý správny vývojár potrebuje svoj vzácny softvér verzovať a zálohovať.
@@ -103,13 +113,3 @@ V skrytej zložke `/home/matusko/.ssh` teraz máme 2 kľúče, jeden privátny `
 
 Ten privátny nikomu nikdy nedávajte, ale ten verejný si môžete pridať do vášho GitHub účtu,
 a nebudete sa už musieť overovať heslom, ale pomocou SSH kľúču, čo vám určite uľahčí život.
-
-## Ostatný softvér
-
-Ak sa vami hľadaný softvér nenachádza v repozitároch, stále je možnosť získať RPM balíček (koncovka .rpm) od výrobcu.
-
-Ako príklad uvediem emailový klient [Nylas N1](https://nylas.com/), ktorý sa dá stiahnúť na stránke [invite.nylas.com/download/](https://invite.nylas.com/download/).
-
-Podobným spôsobom sa dá do systému dostať Google Chrome, Opera, Vivaldi, Skype, a iné.
-
-Balíčky pre Debian (Ubuntu, Linux Mint) s koncovkou .deb pre nás žiaľ neplatia.

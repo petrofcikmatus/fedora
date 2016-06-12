@@ -1,8 +1,8 @@
-# LAMP-stack
+# LAMP
 
-V tejto časti tutoriálu sa budeme venovať inštalovaniu a konfigurácii LAMP-stacku.
+V tejto časti tutoriálu sa budeme venovať inštalovaniu a konfigurácii LAMP-u.
 
-## Čo je LAMP
+## Čo je to LAMP
 
 LAMP je skratka pre sadu nástrojov pre vývoj a prevádzkovanie webových aplikácií.
 
