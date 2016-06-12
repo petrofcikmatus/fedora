@@ -8,7 +8,9 @@ Fedora je linuxová distribúcia založená na balíčkovacom systéme RPM, vyv�
 
 Fedora Project je sponzorovaný spoločnosťou [Red Hat](https://www.redhat.com/en), a podľa jednotlivých vydaní Fedory potom Red Hat vytvára vlastný operačný systém Red Hat Enterprise Linux.
 
-**Aktuálna verzia Fedory je Fedora 23**, nasledujúca Fedora 24 by mala byť vydaná 14. júna 2016. Fedora je samozrejme **zadarmo**!
+**Aktuálna verzia Fedory je Fedora 23**, nasledujúca Fedora 24 by mala byť vydaná 14. júna 2016.
+
+Fedora je samozrejme **zadarmo**!
 
 Fedora sa delí na 3 verzie. Pre nás zaujímavou verziu je verzia [Workstation](https://getfedora.org/en/workstation/), kde je východzím grafickým prostredím **[GNOME 3](https://www.gnome.org/gnome-3/)**.
 
