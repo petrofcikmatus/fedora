@@ -54,4 +54,5 @@ Vyberieme si zariadenie, na ktoré chceme obraz nakopírovať, a klineme na tla�
 
 V operačných systémoch Windows a Mac OS X som to moc neskúšal, ale predpokladám rovnaké chovanie.
 
-Vo Windows-och mám pozitívne skúsenosti aj s programom [Power ISO](http://www.stahuj.centrum.cz/multimedia/ostatni/poweriso/) a s [Pendrive Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)(dokáže nainštalovať viacero live systémov na jedno USB).
+Vo Windows-och mám pozitívne skúsenosti s programom [Power ISO](http://www.stahuj.centrum.cz/multimedia/ostatni/poweriso/)
+a [Pendrive Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) (dokáže nainštalovať viacero live systémov na jedno USB).
