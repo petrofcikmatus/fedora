@@ -26,7 +26,7 @@ Ak ste zvolili vyskúšanie Fedory, musíte si otvoriť ľavý panel (myškou
 buchnite do ľavého horného rohu, alebo kliknite na Activities), a zvoľte
 inštaláciu Fedory.
 
-### Výber jazyku inštalácie
+### Výber jazyka inštalácie
 
 Hneď na začiatku inštalácie si vyberáme jazyk, v ktorom bude inštalácia pokračovať.
 
@@ -106,8 +106,8 @@ a vďaka tomu sú oddelené dáta systému od dát užívateľov (celkom chytré
 
 ![obrazok](images/10.png)
 
-Po kliknutí na `Done` naľavo hore vyskočí sumarizácia, že čo som to vlastne s diskom porobil
-a či som si fakt istý. Istý si som, klikám na `Accept changes`.
+Po kliknutí na `Done` naľavo hore vyskočí sumarizácia, že čo sme to vlastne s diskom porobili
+a či sme si fakt istí. Istý si som, vy tiež, klikáme na `Accept changes`.
 
 ![obrazok](images/11.png)
 
@@ -132,7 +132,7 @@ A keďže som ho zvolil extra jednoduché, dole mi oranžovo vypisuje varovanie,
 
 ![obrazok](images/14.png)
 
-Mimochodom to heslo si zapamätajte, je to veľmi dôležité!
+**Mimochodom si to heslo užívateľa `root` zapamätajte, je to veľmi dôležité!**
 
 Dobrovoľne si môžete vytvoriť užívateľa (pre seba) už počas inštalácie. Ak to budete robiť,
 je vhodné zaškrtnúť možnosť `Make this user administrator`, v budúcnosti to uľahčí pár vecí.
