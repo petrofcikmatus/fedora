@@ -4,7 +4,7 @@ V tejto časti tutoriálu si predstavíme neslobodný softvér v rámci Fedory, 
 
 ## Neslobodný softvér
 
-Menším "problémom" Fedory je absencia softvéru, ktorý nechce Fedora (alebo skôr RedHat)
+Menším "problémom" Fedory je absencia softvéru, ktorý nechce/nemôže Fedora (alebo skôr Red Hat)
 z rôznych dôvodov poskytovať. V základe tak Fedora v repozitároch neobsahuje
 softvér ako Adobe Flash Player, Google Chrome, či Microsoft Fonty.
 
