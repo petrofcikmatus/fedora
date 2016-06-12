@@ -4,9 +4,10 @@ V tejto časti tutoriálu sa budeme venovať inštalácii Composer-u a v krátko
 
 ## Čo je to Composer
 
-[Composer](https://getcomposer.org/) je správca balíčkov (závislostí) pre PHP,
-ktoré si môžeme prezrieť na stránke [Packagist.org](https://packagist.org/).
-V dnešnej dobe pri programovaní systémov PHP už takmer málokto nepracuje Composer-om.
+[Composer](https://getcomposer.org/) je správca balíčkov (závislostí) pre PHP, ktoré si môžeme
+prezrieť na stránke [Packagist.org](https://packagist.org/).
+
+V dnešnej dobe pri programovaní systémov v PHP už takmer málokto nepracuje Composer-om, takže si ho nainštalujme.
 
 **Poznámka:** Pri spustenom XDebug bude Composer hlásiť, že ho to spomaľuje.
 

@@ -111,4 +111,4 @@ The key's randomart image is:
 V skrytej zložke `/home/matusko/.ssh` teraz máme 2 kľúče, jeden privátny `id_rsa` a jeden verejný `id_rsa.pub`.
 
 Ten **privátny nikomu nikdy nedávajte**, ale ten verejný si môžete pridať do vášho GitHub účtu,
-a nebudete sa už musieť overovať heslom, čo vám určite uľahčí vývojársky život :)
+a nebudete sa už musieť overovať heslom, čo vám určite uľahčí život vývojára :)
