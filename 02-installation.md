@@ -1,6 +1,8 @@
 # Inštalácia
 
-V tejto časti tutoriálu vás pomocou obrázkov stručne prevediem inštaláciou Fedory 23 Workstation. Zdatnejší túto časť môžu preskočiť :)
+V tejto časti tutoriálu vás pomocou obrázkov stručne prevediem inštaláciou Fedory 23 Workstation.
+
+Zdatnejší môžu túto časť preskočiť :)
 
 ## Nabootovanie inštalačného USB
 
@@ -25,8 +27,6 @@ na inštaláciu, veď systém si potom môžete skúšať rýchlejšie :)
 Ak ste zvolili vyskúšanie Fedory, musíte si otvoriť ľavý panel (myškou
 buchnite do ľavého horného rohu, alebo kliknite na Activities), a zvoľte
 inštaláciu Fedory.
-
-V prípade, že ste rovno zvolili inštaláciu Fedory, tak pokračujte na ďalšom bode.
 
 ### Výber jazyku inštalácie
 
