@@ -67,21 +67,84 @@ V ľavo hore klikáme na `Done` a budeme pokračovať nastavením systému.
 
 ### Nastavenie systému
 
+Dôležitou časťou je rozloženie a nastavenie disku. Je potrebné vybrať disk,
+na ktorý chceme fedoru nainštalovať (musí tam byť tá čierna fajočka).
+
 ![obrazok](images/08.png)
+
+Následne máme možnosť automatického nastavenia partícií, ale aj možnosť
+nastaviť si to sám. Ak plánujete na rovnakom disku dualboot (windows + linux),
+tak vás mierne sklamem, nikdy som to nerobil a neviem ako to nastaviť správne.
+
+Nižšie si môžete všimnuť voľbu šifrovať vaše dáta v `/home` zložke, čo sa hodí
+napr. pri firemných počítačoch (z ukradnutého PC vám nikto dáta nezíska).
+
+Ak si to chcete dať nastaviť automaticky, zaškrtnite `Automatically configure partitioning`
+a v ľavo hore kliknite na `Done`.
+
+Ak však chcete vyskúšať manuálnu konfiguráciu zaškrtnite `I will configure partitionin`
+a sledujte nasledujúce 3 obrázky.
+
+V prvom obrázku máme možnosť vytvoriť partície manuálne pomocou tlačítka `+`, a dokonca
+tam znovu máme možnosť `Click here to create them automatically`, ktorú odporúčam.
+
+Ja si ponechám LVM schému, a klikám na tlačítko `+`.
 
 ![obrazok](images/09.png)
 
+Dôležité je vytvoriť `/boot` partíciu, ja jej dávam 500MiB. V nej bude sídliť napr.
+GRUB pre zavádzanie nášho systému pri bootovaní.
+
+Ďalej si vytváram `swap`, ktorý by mal mať veľkosť ako vaša pamäť RAM. Počas behu systému
+sa do neho ukladajú málo používané dáta z RAM pamäte (hlavne ak voľné miesto v RAM dochádza)
+a taktiež slúži pre uloženie obsahu RAM pri hibernácii.
+
+Zvyšok voľného miesta môjho 8GiB disku prenechávam partícii `/`, čo je vlastne koreňová zložka
+celého systému.
+
+Ak máte viac miesta na disku, Fedora sa snaží vytvoriť `/home`, ktorý slúži pre dáta užívateľa,
+a vďaka tomu sú oddelené dáta systému od dát užívateľov (celkom chytré že?).
+
 ![obrazok](images/10.png)
+
+Po kliknutí na `Done` naľavo hore vyskočí sumarizácia, že čo som to vlastne s diskom porobil
+a či som si fakt istý. Istý si som, klikám na `Accept changes`.
 
 ![obrazok](images/11.png)
 
+Disk už máme nastavený, a zdá sa že sieť sa nastavila sama (som pripojený káblom, pri wifi by sa pýtalo na sieť a heslo).
+
 ![obrazok](images/12.png)
+
+Kliknutím na `Begin installation` v pravo dole započneme inštaláciu.
+
+### Nastavenie užívateľov
+
+Naskytuje sa nám nasledovný pohľad.
 
 ![obrazok](images/13.png)
 
+Naľavo máme nutnosť nastaviť heslo superužívateľovi `root` (veľmi dôležité!!!)
+a napravo možnosť vytvoriť nového užívateľa (nepovinné, môžeme to spraviť aj neskôr).
+
+Vyberám povinnosť a nastavujem superužívateľovi `root` jednoduché heslo, a klikám v ľavo hore na `Done`.
+
+A keďže som ho zvolil extra jednoduché, dole mi oranžovo vypisuje varovanie, a musím klikať na `Done` viackrát.
+
 ![obrazok](images/14.png)
 
+Mimochodom to heslo si zapamätajte, je to veľmi dôležité!
+
+Dobrovoľne si môžete vytvoriť užívateľa (pre seba) už počas inštalácie. Ak to budete robiť,
+je vhodné zaškrtnúť možnosť `Make this user administrator`, v budúcnosti to uľahčí pár vecí.
+
+Vyzerá to asi nejak takto, ja som to ale neuložil aby som ukázal vytváranie užívateľa pri prvom spustení.
+
 ![obrazok](images/15.png)
+
+Tak už len počkajte kým sa systém nainštaluje a reštartuje :)
+
+## Prvé spustenie
 
 ![obrazok](images/16.png)
 
