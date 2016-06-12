@@ -1,6 +1,6 @@
 # LAMP-stack
 
-V tejto časti tutoriálu sa budeme venovať nainštalovaniu a konfigurácii LAMP-stacku.
+V tejto časti tutoriálu sa budeme venovať inštalovaniu a konfigurácii LAMP-stacku.
 
 ## Čo je LAMP
 
