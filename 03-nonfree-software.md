@@ -1,0 +1,2 @@
+# Neslobodný softvér
+

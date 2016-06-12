@@ -1,22 +1,30 @@
 # Úvod
 
-V tejto časti tutoriálu vám predstavím, čo to tá Fedora vlastne je, kde ju môžeme získať, a ako si vytvoriť inštalačné médium s Fedorou.
+V tejto časti tutoriálu vám predstavím, čo to tá Fedora vlastne je,
+kde ju môžeme získať a ako si vytvoriť inštalačné médium s Fedorou.
 
-## Čo je to Fedora
+Pre tých, ktorí Fedoru poznajú, je vhodné preskočiť rovno na 3. kapitolu :)
 
-Fedora je linuxová distribúcia založená na balíčkovacom systéme RPM, vyvíjaná za podpory komunity projektu [Fedora Project](https://fedoraproject.org/wiki/Overview).
+## Čo je Fedora
 
-Fedora Project je sponzorovaný spoločnosťou [Red Hat](https://www.redhat.com/en), a podľa jednotlivých vydaní Fedory potom Red Hat vytvára vlastný operačný systém Red Hat Enterprise Linux.
+Fedora je linuxová distribúcia založená na balíčkovacom systéme RPM,
+vyvíjaná za podpory komunity projektu [Fedora Project](https://fedoraproject.org/wiki/Overview).
+
+Fedora Project je sponzorovaný spoločnosťou [Red Hat](https://www.redhat.com/en),
+a podľa jednotlivých vydaní Fedory potom Red Hat vytvára vlastný operačný systém Red Hat Enterprise Linux.
 
 **Aktuálna verzia Fedory je Fedora 23**, nasledujúca Fedora 24 by mala byť vydaná 14. júna 2016.
 
 Fedora je samozrejme **zadarmo** a delí sa na 3 verzie podľa použitia.
 
-Pre nás zaujímavou verziu je verzia [Workstation](https://getfedora.org/en/workstation/), kde je východzím grafickým prostredím [GNOME 3](https://www.gnome.org/gnome-3/).
+Pre nás zaujímavou verziu je verzia [Workstation](https://getfedora.org/en/workstation/),
+kde je východzím grafickým prostredím [GNOME 3](https://www.gnome.org/gnome-3/).
 
-Z Fedory 23 Workstation existujú aj tzv. Fedora Spin-y s KDE Plasma Desktop, XFCE Desktop, LXDE Desktop, MATE-Compiz Desktop, Cinnamon Desktop a SOAS Desktop (Sugar on a Stick).
+Z Fedory 23 Workstation existujú aj tzv. Fedora Spin-y s KDE Plasma Desktop, XFCE Desktop,
+LXDE Desktop, MATE-Compiz Desktop, Cinnamon Desktop a SOAS Desktop (Sugar on a Stick).
 
-Ďalšími verziami sú [Server](https://getfedora.org/en/server/), [Cloud](https://getfedora.org/en/cloud/) (obrazy raw, vagrant, amazon, docker...), a ako bonus sú k dispozícii aj [ARM verzie](https://arm.fedoraproject.org/) všetkého čo som napísal.
+Ďalšími verziami sú [Server](https://getfedora.org/en/server/), [Cloud](https://getfedora.org/en/cloud/) (obrazy raw, vagrant, amazon, docker...),
+a ako bonus sú k dispozícii aj [ARM verzie](https://arm.fedoraproject.org/) všetkého čo som napísal.
 
 Webstránka: [getfedora.org/en/](https://getfedora.org/en/)
 

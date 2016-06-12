@@ -2,7 +2,8 @@
 
 V tejto časti tutoriálu vás pomocou obrázkov stručne prevediem inštaláciou Fedory 23 Workstation.
 
-Zdatnejší môžu túto časť preskočiť :)
+Jedná sa o časť pre úplnych začiatočníkov, aby vedeli čo ich počas inštalácie čaká a ako pokračovať.
+Zdatnejší môžu túto časť smelo preskočiť :)
 
 ## Nabootovanie inštalačného USB
 
@@ -30,7 +31,7 @@ inštaláciu Fedory.
 Hneď na začiatku inštalácie si vyberáme jazyk, v ktorom bude inštalácia pokračovať.
 
 Berte na vedomie, že zvolený jazyk sa automaticky nastaví ako jazyk celého
-systému. Jazyk systému sa dá neskôr samozrejme zmeniť.
+systému, ale to sa dá neskôr zmeniť.
 
 Ja si zvolím angličtinu a klikám v pravo dole na modré tlačítko `Continue`.
 
@@ -46,6 +47,7 @@ Vyskočí na nás nasledujúci výber, v ktorom máme možnosť nastaviť nieko�
 
 Nastavme si teda klávesnicu. Ja som Slovák, tak si chcem pridať slovenské rozloženie.
 Pod zoznamom naľavo je také tlačítko `+`, pomocou ktorého je možné pridať klávesnicu.
+Potom si stačí vybrať zo zoznamu alebo vyhľadať podľa zadanej frázy.
 
 ![obrazok](images/05.png)
 
@@ -79,7 +81,7 @@ napr. pri firemných počítačoch (z ukradnutého PC vám nikto dáta nezíska)
 Ak si to chcete dať nastaviť automaticky, zaškrtnite `Automatically configure partitioning`
 a v ľavo hore kliknite na `Done`.
 
-Ak však chcete vyskúšať manuálnu konfiguráciu zaškrtnite `I will configure partitionin`
+Ak však chcete vyskúšať manuálnu konfiguráciu zaškrtnite `I will configure partitioning`
 a sledujte nasledujúce 3 obrázky.
 
 V prvom obrázku máme možnosť vytvoriť partície manuálne pomocou tlačítka `+`, a dokonca
@@ -165,7 +167,7 @@ Ja si zadávam meno `matusko`, ktoré neskôr budem spomínať...
 
 Pri inštalácií sa dali voliť hociaké heslá, no teraz musíme dodržiavať niekoľko bezpečnostných pravidiel.
 
-Po kliknutí na `Next` je všetko nastavené, a môžeme sa prihlásiť.
+Po kliknutí na `Next` je všetko nastavené, a po kliknutí na `Start using Fedora` sa môžeme prihlásiť.
 
 ![obrazok](images/21.png)
 
@@ -175,12 +177,15 @@ Prihlasovacia obrazovka vyzerá takto:
 
 ![obrazok](images/22.png)
 
+Jenoducho kliknite na svoje meno a zadajte heslo :)
+
 ## Update systému
 
 Hneď po spustení systému odporúčam updatovať systém, vďaka čomu získate rôzne vylepšenia
 opravy chýb, vyššiu stabilitu systému, atď.
 
-Update je môžne vykonať pomocou programu `Software` z ponuky programov, no ja vám ukážem ako na to z príkazovej riadky.
+Update je môžne vykonať pomocou programu `Software` z ponuky programov,
+no ja vám ukážem ako na to z príkazovej riadky.
 
 Otvorte si teda program `Terminal` a zadajte príkaz:
 
@@ -188,7 +193,8 @@ Otvorte si teda program `Terminal` a zadajte príkaz:
 sudo dnf check-update
 ```
 
-Po výzve na zadanie hesla samozrejme zadajte aj heslo (zadávané heslo sa v termináli nezobrazuje, a to ani ako hviezdičky, ale zaznamenáva sa).
+Po výzve na zadanie hesla samozrejme zadajte aj heslo (zadávané heslo sa
+v termináli nezobrazuje, a to ani ako hviezdičky, ale zaznamenáva sa).
 
 Až sa posťahuje zoznam vecí na aktualizáciu, môžete zadať ďalší príkaz:
 
