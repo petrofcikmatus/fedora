@@ -52,10 +52,9 @@ Balíčky pre Debian (Ubuntu, Linux Mint) s koncovkou .deb pre nás žiaľ nepla
 
 Každý správny vývojár potrebuje svoj vzácny softvér verzovať a zálohovať.
 
-Fedora obsahuje verziovací systém Git, ktorý je v poslednej dobe veľmi populárny a vytvoril ho
-Linus Torvald, sám správca Linuxu pôvodne pre lepší vývoj Linuxu. V dnešnej dobe je veľmi efektívne
-spolupracovať na vývoji softvéru v kolektíve práve pomocou Git-u, a taktiež ho jednoducho zdieľať
-napr. na [GitHub-e](https://github.com).
+Fedora obsahuje verziovací systém Git, ktorý vytvoril Linus Torvald (správca Linuxu).
+V dnešnej dobe je veľmi efektívne spolupracovať na vývoji softvéru v kolektíve práve
+pomocou Git-u, a taktiež ho jednoducho zdieľať, napr. na [GitHub-e](https://github.com).
 
 Pre používanie Git-u v našich projektoch si však chceme v Git-e nastaviť užívateľa, teda nás.
 
