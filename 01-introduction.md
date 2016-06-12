@@ -22,9 +22,9 @@ Z verzie Workstation existujú aj tzv. Fedora Spin-y s KDE Plasma Desktop, XFCE 
 LXDE Desktop, MATE-Compiz Desktop, Cinnamon Desktop a SOAS Desktop (Sugar on a Stick).
 
 Ďalšími verziami sú [Server](https://getfedora.org/en/server/), [Cloud](https://getfedora.org/en/cloud/) (raw, vagrant, amazon, docker...),
-a ako bonus sú k dispozícii aj [ARM verzie](https://arm.fedoraproject.org/) všetkého čo som napísal.
+a ako bonus sú k dispozícii [ARM verzie](https://arm.fedoraproject.org/) všetkého čo som vyššie spomenul.
 
-Webstránka: [getfedora.org/en/](https://getfedora.org/en/)
+Oficiálna stránka je [getfedora.org/en/](https://getfedora.org/en/).
 
 ## Stiahnutie inštalačného obrazu
 
