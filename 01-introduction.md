@@ -13,11 +13,9 @@ vyvíjaná za podpory komunity projektu [Fedora Project](https://fedoraproject.o
 Fedora Project je sponzorovaný spoločnosťou [Red Hat](https://www.redhat.com/en),
 a podľa jednotlivých vydaní Fedory potom Red Hat vytvára vlastný operačný systém Red Hat Enterprise Linux.
 
-**Aktuálna verzia Fedory je Fedora 23**, nasledujúca Fedora 24 by mala byť vydaná 14. júna 2016.
+**Aktuálna verzia Fedory je Fedora 23**, je samozrejme **zadarmo** a delí sa na 3 verzie podľa použitia.
 
-Fedora je samozrejme **zadarmo** a delí sa na 3 verzie podľa použitia.
-
-Pre nás zaujímavou verziu je verzia [Workstation](https://getfedora.org/en/workstation/),
+Nás bude zaujímať verzia [Workstation](https://getfedora.org/en/workstation/),
 kde je východzím grafickým prostredím [GNOME 3](https://www.gnome.org/gnome-3/).
 
 Z Fedory 23 Workstation existujú aj tzv. Fedora Spin-y s KDE Plasma Desktop, XFCE Desktop,
