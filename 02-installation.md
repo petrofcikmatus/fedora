@@ -12,10 +12,7 @@ systémoch sa to dá obíjsť aj dočasne. Príkladom je moje Lenovo Thinkpad E5
 v ktorom stačí pri spúšťaní ťukať do klávesy F12, kedy získame možnosť výberu disku,
 z ktorého chceme nabootovať, a v tom prípade si zvolíme naše inštalačné USB.
 
-Po malej chvíli sa nám zobrazí spúšťacia obrazovka Fedory 23 Workstation,
-a hneď potom sa spustí operačný systém z našeho USB-čka.
-
-Hneď po spustení budeme mať na výber 2 možnosti, vyskúšať systém v rámci
+Hneď po spustení systému budeme mať na výber 2 možnosti: vyskúšať systém v rámci
 live distribúcie (všetko pracuje z USB) a inštaláciu nového systému na
 náš počítač. Kľudne si môžete systém vyskúšať, ale odporúčam rovno kliknúť
 na inštaláciu, veď systém si potom môžete skúšať rýchlejšie :)
@@ -142,27 +139,63 @@ Vyzerá to asi nejak takto, ja som to ale neuložil aby som ukázal vytváranie 
 
 ![obrazok](images/15.png)
 
+Počas inštalácie môžeme voliť heslá rôzne, trebárs aj `12345`, prejde nám to.
+
 Tak už len počkajte kým sa systém nainštaluje a reštartuje :)
 
 ## Prvé spustenie
 
+Až sa po reštarte systém prvýkrát spustí, zobrazí vám privítaciu obrazovku.
+
+Vyberte si jazyk a pokračujte kliknutím na `Next` v pravo hore.
+
 ![obrazok](images/16.png)
+
+Kto nevytváral nového užívateľa počas inštalácie, má možnosť vytvoriť ho teraz.
 
 ![obrazok](images/17.png)
 
+Ja si zadávam meno `matusko`, ktoré neskôr budem spomínať...
+
 ![obrazok](images/18.png)
 
-![obrazok](images/19.png)
+... a nastavujem si hustokruté heslo.
 
 ![obrazok](images/20.png)
 
+Pri inštalácií sa dali voliť hociaké heslá, no teraz musíme dodržiavať niekoľko bezpečnostných pravidiel.
+
+Po kliknutí na `Next` je všetko nastavené, a môžeme sa prihlásiť.
+
 ![obrazok](images/21.png)
+
+## Prihlásenie
+
+Prihlasovacia obrazovka vyzerá takto:
 
 ![obrazok](images/22.png)
 
+## Update systému
+
+Hneď po spustení systému odporúčam updatovať systém, vďaka čomu získate rôzne vylepšenia
+opravy chýb, vyššiu stabilitu systému, atď.
+
+Update je môžne vykonať pomocou programu `Software` z ponuky programov, no ja vám ukážem ako na to z príkazovej riadky.
+
+Otvorte si teda program `Terminal` a zadajte príkaz:
+
+```
+sudo dnf check-update
+```
+
+Po výzve na zadanie hesla samozrejme zadajte aj heslo (zadávané heslo sa v termináli nezobrazuje, a to ani ako hviezdičky, ale zaznamenáva sa).
+
+Až sa posťahuje zoznam vecí na aktualizáciu, môžete zadať ďalší príkaz:
+
+```
+sudo dnf -y update
+```
+
+Ten updatne systém a to `-y` znamená, že vás ďalej nebude pýtať povolenie.
+
 ![obrazok](images/23.png)
-
-
-## 5 Spustenie nového systému a pár rád ##
-
-### 5.1 Fedy a neslobodný software ###
