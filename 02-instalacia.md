@@ -184,7 +184,7 @@ Jenoducho kliknite na svoje meno a zadajte heslo :)
 Hneď po spustení systému odporúčam aktualizovať systém, vďaka čomu získate rôzne vylepšenia
 opravy chýb, vyššiu stabilitu systému, atď.
 
-Update je môžne vykonať pomocou programu `Software` z ponuky programov,
+Aktualizáciu je môžné vykonať pomocou programu `Software` z ponuky programov,
 no ja vám ukážem ako na to z príkazovej riadky.
 
 Otvorte si teda program `Terminal` a zadajte príkaz:
@@ -206,4 +206,4 @@ sudo dnf -y update
 
 Ten aktualizuje systém a to `-y` znamená, že vás ďalej nebude pýtať povolenie.
 
-Hurá, zvládli sme to!
+Hurá, zvládli sme to! :)
