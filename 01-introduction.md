@@ -10,9 +10,9 @@ Fedora Project je sponzorovaný spoločnosťou [Red Hat](https://www.redhat.com/
 
 **Aktuálna verzia Fedory je Fedora 23**, nasledujúca Fedora 24 by mala byť vydaná 14. júna 2016.
 
-Fedora je samozrejme **zadarmo**!
+Fedora je samozrejme **zadarmo** a delí sa na 3 verzie podľa použitia.
 
-Fedora sa delí na 3 verzie. Pre nás zaujímavou verziu je verzia [Workstation](https://getfedora.org/en/workstation/), kde je východzím grafickým prostredím **[GNOME 3](https://www.gnome.org/gnome-3/)**.
+Pre nás zaujímavou verziu je verzia [Workstation](https://getfedora.org/en/workstation/), kde je východzím grafickým prostredím [GNOME 3](https://www.gnome.org/gnome-3/).
 
 Z Fedory 23 Workstation existujú aj tzv. Fedora Spin-y s KDE Plasma Desktop, XFCE Desktop, LXDE Desktop, MATE-Compiz Desktop, Cinnamon Desktop a SOAS Desktop (Sugar on a Stick).
 
