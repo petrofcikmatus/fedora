@@ -66,7 +66,7 @@ sudo unetbootin
 Následne si vyberiete distribúciu na stiahnutie a inštalovanie, alebo rovno ISO súbor našej Fedory,
 ktorú sme si predtým stiahli :)
 
-Vyberieme si zariadenie, na ktoré chceme obraz nakopírovať, a klineme na tlačítko OK. Program by mal
+Vyberieme si zariadenie, na ktoré chceme obraz nakopírovať, a klineme na tlačítko `OK`. Program by mal
 skopírovať obsah ISO súboru na USB, a nastaviť USB ako bootovateľné médium.
 
 V operačných systémoch Windows a Mac OS X som to moc neskúšal, ale predpokladám rovnaké chovanie.
