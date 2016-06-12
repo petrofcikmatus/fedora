@@ -179,9 +179,9 @@ Prihlasovacia obrazovka vyzerá takto:
 
 Jenoducho kliknite na svoje meno a zadajte heslo :)
 
-## Update systému
+## Aktualizácia systému
 
-Hneď po spustení systému odporúčam updatovať systém, vďaka čomu získate rôzne vylepšenia
+Hneď po spustení systému odporúčam aktualizovať systém, vďaka čomu získate rôzne vylepšenia
 opravy chýb, vyššiu stabilitu systému, atď.
 
 Update je môžne vykonať pomocou programu `Software` z ponuky programov,
@@ -193,6 +193,8 @@ Otvorte si teda program `Terminal` a zadajte príkaz:
 sudo dnf check-update
 ```
 
+![obrazok](images/23.png)
+
 Po výzve na zadanie hesla samozrejme zadajte aj heslo (zadávané heslo sa
 v termináli nezobrazuje, a to ani ako hviezdičky, ale zaznamenáva sa).
 
@@ -202,6 +204,6 @@ Až sa posťahuje zoznam vecí na aktualizáciu, môžete zadať ďalší príka
 sudo dnf -y update
 ```
 
-Ten updatne systém a to `-y` znamená, že vás ďalej nebude pýtať povolenie.
+Ten aktualizuje systém a to `-y` znamená, že vás ďalej nebude pýtať povolenie.
 
-![obrazok](images/23.png)
+Hurá, zvládli sme to!
